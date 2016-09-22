@@ -1,0 +1,88 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    height:100%;
+    color: orange;
+    /*  color: #ECEE13;*/
+    font-size: 70px;
+    font-weight: bold;
+    font-family:Comic Sans MC;
+}
+.beijing{
+    width: 100%;
+    height:100%;
+}
+.gengdan{
+    width: 100%;
+    height: 30px;
+    position: fixed;
+    bottom: 0px;
+    left:0;
+    /*background:#6AFD08;*/
+    background:#1AE0FE;
+    z-index: 10;
+}
+.gengdan div{
+    width: 12%;
+    height:30px;
+    float: left;
+    font-size: 30px;
+    color:#fff;
+    font-weight: bold;
+    line-height: 30px;
+    text-align: center;
+    font-family:Comic Sans MC;
+}
+.come{
+    width: 280px;
+    height: 124px;
+    position: fixed;
+    left:570px;
+    top:230px;
+}
+.coming{
+    width: 280px;
+    height: 124px;
+}
+.endbox{
+    width: 550px;
+    height: 300px;
+    position: fixed;
+    left:400px;
+    top:120px;
+    display: none;
+}
+.end{
+    width: 550px;
+    height: 300px;
+}
+.nextbox{
+    width: 500px;
+    height: 400px;
+    position: fixed;
+    left:420px;
+    top:80px;
+    display: none;
+}
+.next{
+    width: 500px;
+    height: 400px;
+}
+.lifebox{
+    width: 100%;
+    height: 30px;
+}
+.gqbox{
+    width: 100%;
+    height: 30px;
+}
+.zfbox{
+    width: 100%;
+    height: 30px;
+}
+.scbox{
+    width: 100%;
+    height: 30px;
+}
